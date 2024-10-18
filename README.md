@@ -1,0 +1,3 @@
+Explorez le Japon à travers les arts de l'encre Description Ce projet met en valeur la beauté et la richesse de la culture japonaise à travers ses arts de l'encre et ses mangas. Le site Web propose une galerie organisée présentant de superbes panneaux de mangas, ainsi que des articles informatifs et une boutique de tirages et de marchandises. Notre mission est d'éduquer et d'inspirer les visiteurs sur le patrimoine artistique du Japon.
+
+Galerie de fonctionnalités : Explorez une collection d’art manga visuellement captivant. À propos de nous : Apprenez-en davantage sur la mission et la vision de la plateforme. Informations de contact : contactez-nous pour toute demande de renseignements ou de collaboration.
