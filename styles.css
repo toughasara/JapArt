@@ -11,7 +11,7 @@ body {
 }
 
 nav {
-    background-color: #0288D1; /* sea blue */
+    background-color: #272D49; /* sea blue */
     padding: 15px 20px;
 }
 
@@ -92,18 +92,18 @@ nav {
 
 .hero h2 {
     font-size: 3em;
-    margin-bottom: 0.5em;
+    margin-bottom: 20px;
     word-spacing: 5px;
 }
 
 .hero p {
     font-size: 1.5em;
-    margin-bottom: 1.5em;
+    margin-bottom: 30px;
     word-spacing: 5px;
 }
 
 .btn {
-    background-color: #0288D1;
+    background-color: #272D49;
     color: white;
     padding: 0.75em 2em;
     border-radius: 5px;
@@ -112,7 +112,7 @@ nav {
 }
 
 .btn:hover {
-    background-color: #6e99f5;
+    background-color: #272D49;
 }
 
 
@@ -122,18 +122,17 @@ nav {
 section#collection {
     padding: 40px;
     text-align: center;
-    background-color: #E0F7FA; /* light sea color */
+    background-color: #272d492d 
 }
 
 #collection h2 {
-    color: #0288D1;
     font-size: 28px;
     margin-bottom: 10px;
 }
 
 #collection p {
     font-size: 18px;
-    color: #555;
+    /* color: #555; */
     margin-bottom: 30px;
     max-width: 1000px;
     margin-left: auto;
@@ -172,31 +171,12 @@ section#collection {
 }
 
 #show-more {
-    margin-top: 30px;
+    margin-top: 40px;
 }
-
-#show-more button {
-    background-color: #0288D1;
-    color: white;
-    border: none;
-    padding: 12px 20px;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-#show-more button:hover {
-    background-color: #81D4FA;
-}
-
-
-
-
 
 /* Footer */
 footer {
-    background-color:#0288D1 ;
+    background-color:#272D49 ;
     color: rgb(0, 0, 0);
     padding: 40px 0;
 }
